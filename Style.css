@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(49, 49, 49);
+    font-family: cursive;
+    font-size: 4rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+h1{
+    margin: 0;
+    color: chartreuse;
+}
+
+button{
+    font-size: 2rem;
+    background-color: chartreuse;
+    color: red;
+    border: .1em solid red;
+    border-radius: 100rem;
+    width: 20vw;
+}
